@@ -6,6 +6,11 @@ pages:
   - {name: 'CONTACT US', link: 'example-2.html'}
   - {name: 'Get This Theme', link: 'https://github.com/PandaSekh/Jekyll-Podcaster'}
 
+<H2>iseultoctoe</H2>
+We modified the 'grid' part of the code to change the number of columns from row 3 to row 4. The size of the game board was too small, so I modified the cell size code to increase the size. We changed the color of the x and o marks by adding new colors. I inserted an image next to the game board indicating whose turn it is. Also we added a code called 'pygame.quit()' under the condition that the game ends so that the game board can turn off as soon as the game ends. We added the background of the game board that was black. 
+<a href="https://github.com/kejeom/iseultoctoe.git"> Download</a>
+<a href="https://iseultoctoe.readthedocs.io/en/latest/"> document</a>
+
 social:
   - {icon: 'instagram', type: "brand", link: '#'}
   - {icon: 'twitter', type: "brand", link: 'https://twitter.com/ArteLettura'}
